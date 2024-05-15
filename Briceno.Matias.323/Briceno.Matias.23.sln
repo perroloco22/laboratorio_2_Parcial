@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parcial", "Parcial\Parcial.csproj", "{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialForms", "ParcialForms\ParcialForms.csproj", "{ABF05317-4B66-4E48-988F-E5886EF283EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF05317-4B66-4E48-988F-E5886EF283EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF05317-4B66-4E48-988F-E5886EF283EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF05317-4B66-4E48-988F-E5886EF283EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF05317-4B66-4E48-988F-E5886EF283EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94D5CA93-A957-446C-A6AD-305FE7A640B1}
+	EndGlobalSection
+EndGlobal

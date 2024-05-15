@@ -1,0 +1,12 @@
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\bin\Debug\net6.0\Parcial.deps.json
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\bin\Debug\net6.0\Parcial.dll
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\bin\Debug\net6.0\Parcial.pdb
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\obj\Debug\net6.0\Parcial.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\obj\Debug\net6.0\Parcial.AssemblyInfoInputs.cache
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\obj\Debug\net6.0\Parcial.AssemblyInfo.cs
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\obj\Debug\net6.0\Parcial.csproj.CoreCompileInputs.cache
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\obj\Debug\net6.0\Parcial.sourcelink.json
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\obj\Debug\net6.0\Parcial.dll
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\obj\Debug\net6.0\refint\Parcial.dll
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\obj\Debug\net6.0\Parcial.pdb
+E:\MATIAS\FACULTAD\UTN\Programacion 2\Parcial\Briceno.Matias.23\Parcial\obj\Debug\net6.0\ref\Parcial.dll
