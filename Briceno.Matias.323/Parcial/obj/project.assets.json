@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.23\\Parcial\\Parcial.csproj",
+      "projectUniqueName": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\Parcial.csproj",
       "projectName": "Parcial",
-      "projectPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.23\\Parcial\\Parcial.csproj",
+      "projectPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\Parcial.csproj",
       "packagesPath": "C:\\Users\\matu_\\.nuget\\packages\\",
-      "outputPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.23\\Parcial\\obj\\",
+      "outputPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }

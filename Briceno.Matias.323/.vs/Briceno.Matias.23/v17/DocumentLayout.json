@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF05317-4B66-4E48-988F-E5886EF283EF}|ParcialForms\\ParcialForms.csproj|E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\parcialforms\\frmatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABF05317-4B66-4E48-988F-E5886EF283EF}|ParcialForms\\ParcialForms.csproj|solutionrelative:parcialforms\\frmatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}|Parcial\\Parcial.csproj|e:\\matias\\facultad\\utn\\programacion 2\\parcial\\briceno.matias.323\\parcial\\personalmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}|Parcial\\Parcial.csproj|solutionrelative:parcial\\personalmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF05317-4B66-4E48-988F-E5886EF283EF}|ParcialForms\\ParcialForms.csproj|E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\parcialforms\\frmatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF05317-4B66-4E48-988F-E5886EF283EF}|ParcialForms\\ParcialForms.csproj|solutionrelative:parcialforms\\frmatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}|Parcial\\Parcial.csproj|e:\\matias\\facultad\\utn\\programacion 2\\parcial\\briceno.matias.323\\parcial\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}|Parcial\\Parcial.csproj|solutionrelative:parcial\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}|Parcial\\Parcial.csproj|E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\parcial\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B17F0A-6E9C-4A63-8B28-406E00A9458A}|Parcial\\Parcial.csproj|solutionrelative:parcial\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 141,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\Paciente.cs",
+              "RelativeDocumentMoniker": "Parcial\\Paciente.cs",
+              "ToolTip": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\Paciente.cs",
+              "RelativeToolTip": "Parcial\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:23.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAtencion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\ParcialForms\\FrmAtencion.cs",
+              "RelativeDocumentMoniker": "ParcialForms\\FrmAtencion.cs",
+              "ToolTip": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\ParcialForms\\FrmAtencion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ParcialForms\\FrmAtencion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:13.648Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAtencion.cs",
+              "DocumentMoniker": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\ParcialForms\\FrmAtencion.cs",
+              "RelativeDocumentMoniker": "ParcialForms\\FrmAtencion.cs",
+              "ToolTip": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\ParcialForms\\FrmAtencion.cs",
+              "RelativeToolTip": "ParcialForms\\FrmAtencion.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalMedico.cs",
+              "DocumentMoniker": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\PersonalMedico.cs",
+              "RelativeDocumentMoniker": "Parcial\\PersonalMedico.cs",
+              "ToolTip": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\PersonalMedico.cs",
+              "RelativeToolTip": "Parcial\\PersonalMedico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:13.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\Persona.cs",
+              "RelativeDocumentMoniker": "Parcial\\Persona.cs",
+              "ToolTip": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\Persona.cs",
+              "RelativeToolTip": "Parcial\\Persona.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:14.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

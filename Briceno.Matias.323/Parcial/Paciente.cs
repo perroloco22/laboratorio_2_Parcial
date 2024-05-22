@@ -20,7 +20,6 @@ namespace Parcial
         internal override string FichaExtra()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(Persona.FichaPersonal(this));
             sb.AppendLine($"Recide en: {this.barrioRecidencia}");
             sb.AppendLine(this.diagnostico);
             return sb.ToString();

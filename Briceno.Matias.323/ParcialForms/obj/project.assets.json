@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.23\\ParcialForms\\ParcialForms.csproj",
+      "projectUniqueName": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\ParcialForms\\ParcialForms.csproj",
       "projectName": "ParcialForms",
-      "projectPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.23\\ParcialForms\\ParcialForms.csproj",
+      "projectPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\ParcialForms\\ParcialForms.csproj",
       "packagesPath": "C:\\Users\\matu_\\.nuget\\packages\\",
-      "outputPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.23\\ParcialForms\\obj\\",
+      "outputPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\ParcialForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.23\\Parcial\\Parcial.csproj": {
-              "projectPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.23\\Parcial\\Parcial.csproj"
+            "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\Parcial.csproj": {
+              "projectPath": "E:\\MATIAS\\FACULTAD\\UTN\\Programacion 2\\Parcial\\Briceno.Matias.323\\Parcial\\Parcial.csproj"
             }
           }
         }
@@ -68,6 +68,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -92,7 +97,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }

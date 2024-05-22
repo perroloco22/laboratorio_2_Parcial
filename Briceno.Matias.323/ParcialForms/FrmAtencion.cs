@@ -23,16 +23,18 @@ namespace ParcialForms
             if (lstMedicos.SelectedIndex != -1 && lstPacientes.SelectedIndex != -1)
             {
                 Paciente p = (Paciente)lstPacientes.SelectedItem;
+                PersonalMedico pm = (PersonalMedico)lstMedicos.SelectedItem;
                 p.Diagnostico = "Paciente curado";
                 lstMedicos.SelectedIndex = -1;
                 lstPacientes.SelectedIndex = -1;
-                Consulta consulta = new Consulta(DateTime.Now,p);
+                Consulta consulta = pm + p;
                 MessageBox.Show(consulta.ToString(),"Atencion finalizada",MessageBoxButtons.OK);
             }
             else
             {
                 MessageBox.Show("Debe seleccionar un Medico y un Paciente para poder continuar.","Error en los datos");
             }
+            rtbInfoMedico.Text = string.Empty;
         }
         private void lstMedicos_SelectedIndexChanged(object sender, EventArgs e)
         {

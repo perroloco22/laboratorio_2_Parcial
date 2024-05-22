@@ -85,7 +85,7 @@
             lstMedicos.Name = "lstMedicos";
             lstMedicos.Size = new Size(270, 259);
             lstMedicos.TabIndex = 4;
-            lstMedicos.SelectedIndexChanged += this.lstMedicos_SelectedIndexChanged;
+            lstMedicos.SelectedIndexChanged += lstMedicos_SelectedIndexChanged;
             // 
             // lstPacientes
             // 
@@ -100,6 +100,7 @@
             // 
             rtbInfoMedico.Location = new Point(30, 319);
             rtbInfoMedico.Name = "rtbInfoMedico";
+            rtbInfoMedico.ReadOnly = true;
             rtbInfoMedico.Size = new Size(572, 201);
             rtbInfoMedico.TabIndex = 6;
             rtbInfoMedico.Text = "";

@@ -27,8 +27,8 @@ namespace Parcial
         {
             StringBuilder sb = new StringBuilder();
             sb.Append("¿Finalizó residencia?");
-            sb.Append(this.esResidente ? "SI\n" : "NO\n" );
-            sb.AppendLine("ATENCIONES:");
+            sb.Append(this.esResidente ? " SI\n" : " NO\n" );
+            sb.AppendLine("ATENCIONES: ");
             if (consultas.Count != 0)
             {
                 foreach (Consulta consulta in this.consultas)
